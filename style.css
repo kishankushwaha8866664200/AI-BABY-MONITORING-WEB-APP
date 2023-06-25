@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin:0;
+border-radius: 0;
+visibility: visible;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+
+.note{
+    font-size: 15px;
+}
